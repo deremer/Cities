@@ -1,0 +1,11 @@
+Array and JSON for major cities in:
+
+United States
+Europe
+Canada
+Australia
+New Zealand
+Brazil
+Mexico
+
+Each file contains 'cities' as an array of top cities, and 'citiesMap' which maps each city to a latitude/longitude coordinate.
